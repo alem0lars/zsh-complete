@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 #
-# {{{ File header ##############################################################
+# {{{ File header. #############################################################
 #                                                                              #
 # File informations:                                                           #
 # - Name:    zsh-complete-behaviour.zsh                                        #
@@ -9,7 +9,7 @@
 #   - Alessandro Molari <molari.alessandro@gmail.com> (alem0lars)              #
 #                                                                              #
 # Project informations:                                                        #
-#   - Homepage:        https://github.com/alem0lars/zsh-complete-behaviour     #
+#   - Homepage:        https://github.com/alem0lars/zsh-complete               #
 #   - Getting started: see README.md in the project root folder                #
 #                                                                              #
 # License: Apache v2.0 (see below)                                             #
