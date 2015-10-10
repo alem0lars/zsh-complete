@@ -3,7 +3,7 @@
 # {{{ File header. #############################################################
 #                                                                              #
 # File informations:                                                           #
-# - Name:    zsh-complete-behaviour.zsh                                        #
+# - Name:    zsh-complete.zsh                                                  #
 # - Summary: Definition of the ZSH completion behaviour.                       #
 # - Authors:                                                                   #
 #   - Alessandro Molari <molari.alessandro@gmail.com> (alem0lars)              #
